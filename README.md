@@ -1,6 +1,6 @@
 # Kahoot God (Kahoot Answer Bot)
 
-This is a script that automatically screenshots a Kahoot game's questions and options, processes them, and then consults with OpenAI's GPT-4 to get the most likely answer. View the video here [Kahoot god video](https://www.youtube.com/watch?v=G0i_xx-6G-4&ab_channel=TheCodingSloth)
+This is a script that automatically screenshots a Kahoot game's questions and options, processes them, and then consults with OpenAI's GPT-4 
 
 ## Prerequisites
 
